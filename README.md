@@ -1,0 +1,2 @@
+# dotvscode
+VSCode config
